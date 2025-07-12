@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "314552650638",
+    "project_id": "skillswap-f37bd",
+    "storage_bucket": "skillswap-f37bd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314552650638:android:e3789fa2d4dc2086c7b2df",
+        "android_client_info": {
+          "package_name": "it.dtech.skillswap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314552650638-2cgsch8cqdsqctor9liq064oaq2gmqnk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "it.dtech.skillswap",
+            "certificate_hash": "ef424929f238a96fcc4a30d9ad9d9cfd097615ed"
+          }
+        },
+        {
+          "client_id": "314552650638-ci3liu0514sqfc1c43utntb1icdchoof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYZrEqmhuubpOzJYI9VkfoWelyS-u3A9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314552650638-ci3liu0514sqfc1c43utntb1icdchoof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
